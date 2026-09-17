@@ -1,0 +1,6 @@
+{
+  "name": "TIPDİL & YÖKDİL Sağlık İngilizcesi Rehberi",
+  "description": "Tıp Fakültesi öğrencileri ve hekimler için 5 modüllü matematiksel formüller, ESP kelimeleri, vaka analizleri ve check-up soruları sunan TIPDİL/YÖKDİL hazırlık platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
